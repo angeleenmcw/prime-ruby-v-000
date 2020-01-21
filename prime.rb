@@ -1,7 +1,9 @@
 def prime?(num)
   if num % 2 =! 0 
-    true 
+    return true 
   else
-    false 
+    return 
   end
 end
+
+puts
