@@ -2,8 +2,8 @@ def prime?(num)
   if num %2 =! 0 
     return true 
   else
-    return 
+    return false
   end
 end
 
-puts prime?()
+puts prime?(4)
