@@ -6,4 +6,4 @@ def prime?(num)
   end
 end
 
-puts
+puts prime?()
